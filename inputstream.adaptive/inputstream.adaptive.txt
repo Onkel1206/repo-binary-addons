@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/Onkel1206/inputstream.adaptive master
+inputstream.adaptive https://github.com/Onkel1206/inputstream.adaptive Matrix
